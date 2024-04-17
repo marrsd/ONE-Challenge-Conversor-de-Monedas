@@ -1,0 +1,23 @@
+{
+  "2024-04-17 11:55:30": {
+    "result": "success",
+    "base_code": "ARS",
+    "target_code": "USD",
+    "conversion_rate": 0.001156,
+    "conversion_result": 12.138
+  },
+  "2024-04-17 11:55:48": {
+    "result": "success",
+    "base_code": "BRL",
+    "target_code": "USD",
+    "conversion_rate": 0.1913,
+    "conversion_result": 229.56
+  },
+  "2024-04-17 11:55:56": {
+    "result": "success",
+    "base_code": "COP",
+    "target_code": "USD",
+    "conversion_rate": 2.5617E-4,
+    "conversion_result": 1.28085
+  }
+}
