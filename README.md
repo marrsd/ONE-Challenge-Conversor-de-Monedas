@@ -1,8 +1,8 @@
 # Conversor de Monedas
 
-Desafío de aprendizaje en donde se interactúa con el cliente para que eliga una tasa de cambio en el menú que se le despliega e ingrese el valor a convertir, así como la posibilidad de ver su historial de conversiones.
+Desafío de aprendizaje en donde se interactúa con el cliente para que elija una tasa de cambio en el menú que se le despliega e ingrese el valor a convertir, así como la posibilidad de ver su historial de conversiones.
 
-# Requesitos previos
+# Requisitos previos
 
 ## Instalación
 
