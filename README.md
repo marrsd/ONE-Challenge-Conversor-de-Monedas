@@ -2,6 +2,13 @@
 
 Desafío de aprendizaje en donde se interactúa con el cliente para que elija una tasa de cambio en el menú que se le despliega e ingrese el valor a convertir, así como la posibilidad de ver su historial de conversiones.
 
+## Índice
+
+* [Requisitos previos](#requisitos-previos)
+  * [Instalación](#instalacion)
+  * [Uso](#uso)  
+* [Objetivos de aprendizaje](#objetivos-de-aprendizaje)
+
 # Requisitos previos
 
 ## Instalación
